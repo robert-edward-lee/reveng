@@ -1,5 +1,6 @@
 *.exe
 *.o
+*.res
 
 .vscode/
 bin/
