@@ -1,10 +1,10 @@
 /* cli.c
- * Greg Cook, 12/Jan/2022
+ * Greg Cook, 7/Aug/2024
  */
 
 /* CRC RevEng: arbitrary-precision CRC calculator and algorithm finder
  * Copyright (C) 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018,
- * 2019, 2020, 2021, 2022  Gregory Cook
+ * 2019, 2020, 2021, 2022, 2024  Gregory Cook
  *
  * This file is part of CRC RevEng.
  *
@@ -669,8 +669,8 @@ usage(void) {
 			"\t-s search for algorithm\t\t-v calculate reversed CRCs\n"
 			"\t-h | -u | -? show this help\n"
 			"\n"
-			"Copyright (C) 2010, 2011, 2012, 2013, 2014,\n"
-			"\t      2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022  Gregory Cook\n"
+			"Copyright (C) 2010, 2011, 2012, 2013, 2014, 2015,\n"
+			"\t      2016, 2017, 2018, 2019, 2020, 2021, 2022, 2024  Gregory Cook\n"
 			"This is free software; see the source for copying conditions.  There is NO\n"
 			"warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n"
 			"Version "

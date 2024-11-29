@@ -1,6 +1,6 @@
 CRC RevEng: arbitrary-precision CRC calculator and algorithm finder
 Copyright (C) 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018,
-2019, 2020, 2021, 2022  Gregory Cook
+2019, 2020, 2021, 2022, 2024  Gregory Cook
 
 This file is part of CRC RevEng.
 
@@ -47,7 +47,7 @@ byte order-independent CRC calculator and algorithm finder in ANSI C.
 It is a port and expansion of the author's crcbfs.pl script from 2007,
 and runs up to 200 times faster on equivalent problems.  It is also a
 reference implementation of the author's "Catalogue of parametrised CRC
-algorithms", with the 112 currently listed models available as presets.
+algorithms", with the 113 currently listed models available as presets.
 
 To the author's knowledge CRC RevEng is the first published compiled
 application to address the general case of CRC algorithm reversal and
@@ -751,8 +751,7 @@ Bies, Lammert; et al.  "Computer Interfacing Forum" (section "Error
 detection and correction").
   <https://www.lammertbies.nl/forum/viewforum.php?f=11>
 
-Cook, Greg (24 August 2022).  "Catalogue of parametrised CRC
-algorithms".
+Cook, Greg (7 August 2024).  "Catalogue of parametrised CRC algorithms".
   <https://reveng.sourceforge.io/crc-catalogue/>
 
 "Dram" (25 December 2021). "Magic tricks with CRC".
@@ -793,9 +792,10 @@ University Berlin.
 
 Williams, Ross N. (24 September 1996). "A Painless Guide to CRC Error
 Detection Algorithms V3.00".
-  <http://www.ross.net/crc/download/crc_v3.txt>
-  <http://www.wolfgang-ehrhardt.de/crc_v3.html>
-  <https://www.repairfaq.org/filipg/LINK/F_crc_v3.html>
+  <https://web.archive.org/web/20190527220400/http://
+    www.ross.net/crc/download/crc_v3.txt>
+  <https://web.archive.org/web/20190523182111/http://
+    www.wolfgang-ehrhardt.de/crc_v3.html>
 
 INSPIRATION
 
